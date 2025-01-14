@@ -3,7 +3,7 @@ body {
 }
 #header {
     /* background: linear-gradient(to right, #6a11cb, #2575fc); */
-    background-image: url(/pic2.jpeg);
+    background-image: url(./pic2.jpeg);
     background-image: hight;
     
     background-size:cover;
@@ -32,6 +32,6 @@ body {
     transform: scale(1.05);
 }
 .card-body{
-    background-image: url(/skill.jpeg);
+    background-image: url(./skill.jpeg);
     background-size: cover;
 }
