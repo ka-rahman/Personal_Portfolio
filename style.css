@@ -1,0 +1,37 @@
+body {
+    font-family: cursive;
+}
+#header {
+    /* background: linear-gradient(to right, #6a11cb, #2575fc); */
+    background-image: url(/pic2.jpeg);
+    background-image: hight;
+    
+    background-size:cover;
+    color: white;
+    padding: 100px 30px;
+}
+   
+.col{
+   
+}
+
+#contact{
+    background: linear-gradient(to right, lightblue,aqua); 
+}
+#about, #skills, #contact {
+    padding: 60px 0;
+}
+#skills{
+    background:linear-gradient(to right, rgb(99, 193, 162), lightblue) ;
+}
+.project-card {
+    border: none;
+    transition: transform 0.3s;
+}
+.project-card:hover {
+    transform: scale(1.05);
+}
+.card-body{
+    background-image: url(/skill.jpeg);
+    background-size: cover;
+}
